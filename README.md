@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/6e582da9-3c87-4b6e-a921-191019a191d9)Here's a description you can use for your GitHub repository. This description highlights the features and functionality of your app and provides an overview for potential users or contributors:
-
----
 
 ## Notes App
 
