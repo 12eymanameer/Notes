@@ -1,4 +1,4 @@
-Here's a description you can use for your GitHub repository. This description highlights the features and functionality of your app and provides an overview for potential users or contributors:
+![image](https://github.com/user-attachments/assets/6e582da9-3c87-4b6e-a921-191019a191d9)Here's a description you can use for your GitHub repository. This description highlights the features and functionality of your app and provides an overview for potential users or contributors:
 
 ---
 
@@ -16,26 +16,4 @@ A Flutter-based mobile application featuring a double-tap gesture to navigate be
 
 ![Home Screen](https://i.pinimg.com/originals/19/32/4a/19324a087a3ff2fcd50154d9979231c5.gif)
 ![Quotes Screen](https://i.pinimg.com/originals/8e/1e/85/8e1e853313ace4ffcf50b56f22f844d4.gif)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd your-repo
-   ```
-
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the app:
-   ```bash
-   flutter run
-   ```
 
